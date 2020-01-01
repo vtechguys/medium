@@ -1,0 +1,1 @@
+# Simple bar code scanner scan code display decode code on next screen
